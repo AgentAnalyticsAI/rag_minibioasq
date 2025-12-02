@@ -1,0 +1,13 @@
+python-dotenv>=1.0.0
+datasets>=2.13.0
+pandas>=2.0.0
+sentence-transformers>=2.2.2
+spacy>=3.6.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+tqdm>=4.65.0
+openpyxl>=3.1.0
+pinecone
+numpy>=1.24.0
+torch>=2.0.0
+waveflowdb-client>=0.0.5
